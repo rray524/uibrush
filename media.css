@@ -63,6 +63,7 @@ ul.left {
     }
     .pad_cont {
         padding-bottom: 18px;
+        padding-right:0px!important;
     }
 }
 
