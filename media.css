@@ -56,6 +56,13 @@ ul.left {
 .item {
   text-align: center;
 }
+ .pad_con {
+        padding-bottom: 18px;
+        padding-top: 19px;
+    }
+    .pad_cont {
+        padding-bottom: 18px;
+    }
 }
 
 @media(min-width:320px) and (max-width:767px) {
