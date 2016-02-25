@@ -59,6 +59,7 @@ ul.left {
  .pad_con {
         padding-bottom: 18px;
         padding-top: 19px;
+        padding-left:0;
     }
     .pad_cont {
         padding-bottom: 18px;
