@@ -22,6 +22,29 @@ ul {
   padding-left: 0;
   padding-top: 33px;
 }
+.about_left > p {
+  color: #2b3943;
+  font-family: OpenSans;
+  font-size: 18px;
+  padding-top: 42px;
+  text-align: center;
+}
+.about_left > h4 {
+  color: #1e2830;
+  font-family: Raleway;
+  font-size: 22px;
+  font-weight: bold;
+  padding-top: 44px;
+  text-align: center;
+}
+ul.left {
+  list-style: inside url("round.png") square;
+  padding-top: 28px;
+  text-align: center;
+}
+.left > li {
+  padding-bottom: 24px;
+}
 }
 
 @media(min-width:320px) and (max-width:767px) {
