@@ -8,6 +8,20 @@
         padding-left: 40%;
         padding-top: 33px;
     }
+      .btn-default {
+  background-color: #2b3943;
+  border-radius: 3px;
+  color: #fff;
+  font-family: OpenSans;
+  font-size: 18px;
+  line-height: 1.33333;
+  padding: 5px 9px;
+}
+ul {
+  padding-bottom: 22px;
+  padding-left: 0;
+  padding-top: 33px;
+}
 }
 
 @media(min-width:320px) and (max-width:767px) {
