@@ -48,6 +48,11 @@ ul.left {
 .left > li {
   padding-bottom: 24px;
 }
+.box_image {
+  bottom: -53px;
+  left: 42%;
+  position: absolute;
+}
 }
 
 @media(min-width:320px) and (max-width:767px) {
