@@ -2,6 +2,12 @@
     .slicknav_menu {
         display: none;
     }
+      .logo_n_text {
+        float: left;
+        padding-bottom: 26px;
+        padding-left: 40%;
+        padding-top: 33px;
+    }
 }
 
 @media(min-width:320px) and (max-width:767px) {
