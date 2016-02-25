@@ -64,7 +64,9 @@ ul.left {
     .pad_cont {
         padding-bottom: 18px;
         padding-right:0px!important;
+        padding-left: 0;
     }
+    
 }
 
 @media(min-width:320px) and (max-width:767px) {
