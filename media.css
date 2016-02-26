@@ -104,6 +104,10 @@ ul.left {
 .col-md-6.down_nav {
   text-align: center;
 }
+ .align {
+  text-align: center;
+  width: none!important;
+}
 .progress-bar {
   background-color: #fff;
   color: #0f0f0f;
