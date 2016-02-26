@@ -492,7 +492,7 @@
   font-size: 12px;
   height: 200px;
   line-height: 20px;
-  margin-left: 35%;
+  margin-left: 35%!important;
   position: relative;
   text-align: center;
   transition: width 0.6s ease 0s;
