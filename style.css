@@ -339,23 +339,24 @@
  }
  
  .btnp {
-     border-radius: 2px;
-     font-family: OpenSans;
-     font-size: 18px;
-     line-height: 1.33333;
-     padding: 4px 62px;
- }
- 
- .btnpp {
-     background-color: #fff;
-     border-radius: 2px;
-     color: #1e2830;
-     font-family: OpenSans;
-     font-size: 18px;
-     line-height: 1.33333;
-     padding: 4px 61px;
-     border-color: #1E2830;
- }
+  border-radius: 2px;
+  font-family: OpenSans;
+  font-size: 18px;
+  line-height: 1.33333;
+  padding: 4px 52px;
+  width: 100%;
+}
+.btnpp {
+  background-color: #fff;
+  border-color: #1e2830;
+  border-radius: 2px;
+  color: #1e2830;
+  font-family: OpenSans;
+  font-size: 18px;
+  line-height: 1.33333;
+  padding: 4px 51px;
+  width: 100%;
+}
  
  .box_body {
      border: 2px solid #F0F0F0;
