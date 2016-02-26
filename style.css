@@ -484,6 +484,20 @@
  .align {
      text-align: center;
  }
+ .progress-bar {
+  background-color: #fff;
+  box-shadow: none;
+  color: #0f0f0f;
+  float: none;
+  font-size: 12px;
+  height: 200px;
+  line-height: 20px;
+  margin-left: 35%;
+  position: relative;
+  text-align: center;
+  transition: width 0.6s ease 0s;
+  width: 200px;
+}
  /************client area*************/
  
  .client {
