@@ -482,8 +482,9 @@
  }
  
  .align {
-     text-align: center;
- }
+  text-align: center;
+  width: 240px;
+}
  .progress-bar {
   background-color: #fff;
   box-shadow: none;
