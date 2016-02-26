@@ -106,7 +106,7 @@ ul.left {
 }
  .align {
   text-align: center;
-  width: 200px!important;
+  width: 100%!important;
 }
 .progress-bar {
   background-color: #fff;
